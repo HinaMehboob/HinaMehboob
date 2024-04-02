@@ -1,5 +1,5 @@
 <p align="center" >
-  <img  width="1000" height="400"src=https://github.com/HinaMehboob/HinaMehboob/blob/main/3dc98e10a8cef3affa7c30e4b79453bc.gif>
+  <img  width="700" height="200"src=https://github.com/HinaMehboob/HinaMehboob/blob/main/3dc98e10a8cef3affa7c30e4b79453bc.gif>
 </p>
   <h1 align="center">Hi 👋, I'm Hina Mehboob</h1>
 <h3 align="center">Software Engineering Student</h3>
