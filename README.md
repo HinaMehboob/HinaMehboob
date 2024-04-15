@@ -1,10 +1,7 @@
-<p align="center" >
-  <img  width="700" height="200"src=https://github.com/HinaMehboob/HinaMehboob/blob/main/3dc98e10a8cef3affa7c30e4b79453bc.gif>
-</p>
+
   <h1 align="center">Hi 👋, I'm Hina Mehboob</h1>
 <h3 align="center">Software Engineering Student</h3>
 <img align="right" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
-- 📫 How to reach me **hinamehboob412@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
