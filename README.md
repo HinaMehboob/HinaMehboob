@@ -3,11 +3,17 @@
 <h3 align="center">Software Engineering Student</h3>
 <img align="right" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
+- 🔭 I’m @HinaMehboob pursuing Software Engineering from **NUST**
+
+- 👀 I’m intrested in Web Development,AI and ML. 
+
+- 🌱 I’m currently learning **JavaSwing,HTML,CSS and JavaScript.**
+
+- ⚡ Fun fact **I am Great at Cooking!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hina mehboob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hina mehboob" height="30" width="40" /></a>
 <a href="https://instagram.com/_hina_mehboob_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hina_mehboob_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hina_800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hina_800" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
