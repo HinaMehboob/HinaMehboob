@@ -1,7 +1,7 @@
 
   <h1 align="center">Hi 👋, I'm Hina Mehboob</h1>
 <h3 align="center">Software Engineering Student</h3>
-<img align="right" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+
 
 - 🔭 I’m @HinaMehboob pursuing Software Engineering from **NUST**
 
