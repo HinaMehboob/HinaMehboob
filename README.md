@@ -1,15 +1,6 @@
 
-  <h1 align="center">Hi 👋, I'm Hina Mehboob</h1>
+  <h1 align="center">Hi, I'm Hina Mehboob</h1>
 <h3 align="center">Software Engineering Student</h3>
-
-
-- 🔭 I’m @HinaMehboob pursuing Software Engineering from **NUST**
-
-- 👀 I’m intrested in Web Development,AI and ML. 
-
-- 🌱 I’m currently learning **JavaSwing,HTML,CSS and JavaScript.**
-
-- ⚡ Fun fact **I am ailurophile!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hina mehboob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hina mehboob" height="30" width="40" /></a>
