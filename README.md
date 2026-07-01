@@ -1,40 +1,16 @@
-<h1 align="center">Hi 👋, I'm Hina Mehboob</h1>
-<h3 align="center">Full-Stack AI Developer | Software Engineering Undergraduate @ NUST</h3>
+<h1 align="center">Hi, I'm Hina Mehboob</h1>
+<h3 align="center">Full-Stack AI Developer | Software Engineering Undergraduate</h3>
 
 <p align="center">
-Building production-grade full-stack apps with Next.js & TypeScript, and AI-powered autonomous
-pipelines with LangChain / LangGraph. Currently interning as an AI/ML Engineer, actively looking
-for web development internships & entry-level roles.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HinaMehboob&label=Profile%20views&color=0e75b6&style=flat" alt="HinaMehboob" />
+Software Engineering student building full-stack apps with Next.js & TypeScript and AI-powered
+pipelines with LangChain / LangGraph. 
+  Currently seeking internship & entry-level opportunities
+in web development.
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 🎓 7th-semester **B.E. Software Engineering** student at **NUST**, Rawalpindi
-- 💼 Currently **AI/ML Intern @ Rise Tech**, Islamabad — building & deploying ML models and LLM-integrated features
-- 🖥️ Previously **Software Engineering Intern @ InoTech Solutions** — shipped Next.js features, automated test suites, and Figma prototypes
-- 🤖 I build **Agentic RAG pipelines**, autonomous AI DevOps agents, and full-stack apps end-to-end
-- 🌱 Deep-diving into **LangGraph orchestration**, hybrid search (pgvector + FTS + RRF), and Claude/Gemini API integrations
-- 📫 Reach me at **hinamehboob412@gmail.com**
-
----
-
-### 🏆 Featured Projects
-
-- 🔎 **[RepoGazer](https://github.com/HinaMehboob)** — AI-powered codebase search engine with a self-correcting Agentic RAG pipeline (LangGraph + pgvector + FTS + RRF), streamed via SSE with real-time citations
-- 🤖 **Autonomous AI Web Developer & DevOps Pipeline** — n8n + Claude 3.5 Sonnet agent that generates, commits, and deploys full-stack apps from natural language, with a Human-in-the-Loop checkpoint system
-- 🏏 **Live Cricket Score Predictor** — Random Forest + Flask ML pipeline predicting live T20 scores at 97% accuracy
-- 📧 **HamOrSpam Email Detector** — SVM & Logistic Regression built from scratch vs. Scikit-Learn, with a live Flask training dashboard
-- 📚 **Reading Tracker** — Full-stack app with real-time persistence, AI chatbot, and PDF rendering
-
----
-
-### 🛠️ Tech Stack
+### Technical Skills
 
 **Frontend & Backend**
 
@@ -77,7 +53,6 @@ for web development internships & entry-level roles.
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40" style="filter: invert(1);"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="filter: invert(1);"/></a>
 </p>
 
 **Testing & Design**
@@ -91,22 +66,12 @@ for web development internships & entry-level roles.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=HinaMehboob&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="HinaMehboob's GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HinaMehboob&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="HinaMehboob's top languages" width="38%" />
-</p>
-
-> If the cards above don't load, GitHub's stats service is sometimes temporarily rate-limited — just refresh the page after a minute.
-
----
-
-### 🤝 Connect with Me
+### Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/hina-mehboob-b19a62298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hina-mehboob" height="30" width="40" /></a>
 <a href="https://github.com/HinaMehboob" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="HinaMehboob" height="30" /></a>
-<a href="mailto:hinamehboob412@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
 <a href="https://instagram.com/_hina_mehboob_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hina_mehboob_" height="30" width="40" /></a>
+<br>
+<a href="mailto:hinamehboob412@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-hinamehboob412%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 </p>
