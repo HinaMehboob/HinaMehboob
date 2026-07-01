@@ -94,9 +94,11 @@ for web development internships & entry-level roles.
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=HinaMehboob&show_icons=true&theme=default" alt="HinaMehboob" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HinaMehboob&layout=compact" alt="HinaMehboob" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=HinaMehboob&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="HinaMehboob's GitHub stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HinaMehboob&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="HinaMehboob's top languages" width="38%" />
 </p>
+
+> If the cards above don't load, GitHub's stats service is sometimes temporarily rate-limited — just refresh the page after a minute.
 
 ---
 
@@ -104,7 +106,7 @@ for web development internships & entry-level roles.
 
 <p align="left">
 <a href="https://linkedin.com/in/hina-mehboob-b19a62298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hina-mehboob" height="30" width="40" /></a>
-<a href="https://github.com/HinaMehboob" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="HinaMehboob" height="30" width="30" style="filter: invert(1);" /></a>
+<a href="https://github.com/HinaMehboob" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="HinaMehboob" height="30" /></a>
 <a href="mailto:hinamehboob412@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
 <a href="https://instagram.com/_hina_mehboob_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hina_mehboob_" height="30" width="40" /></a>
 </p>
