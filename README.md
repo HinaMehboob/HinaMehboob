@@ -1,12 +1,9 @@
 <h1 align="center">Hi, I'm Hina Mehboob</h1>
-<h3 align="center">Full-Stack AI Developer | Software Engineering Undergraduate</h3>
-
+<h3 align="center">Full-Stack Developer | Software Engineering Undergraduate</h3>
 <p align="center">
 Software Engineering student building full-stack apps with Next.js & TypeScript and AI-powered
-pipelines with LangChain / LangGraph. 
-  Currently seeking internship & entry-level opportunities
-in web development.
-</p>
+pipelines with LangChain / LangGraph.
+  </p>
 
 
 
